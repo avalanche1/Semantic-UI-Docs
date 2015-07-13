@@ -97,9 +97,10 @@ themes      : ['Default']
         <i class="at icon"></i>
         <i class="browser icon"></i>
         <i class="bug icon"></i>
-        <i class="calendar icon"></i>
         <i class="calendar outline icon"></i>
+        <i class="calendar icon"></i>
         <i class="cloud icon"></i>
+        <i class="code icon"></i>
         <i class="comment icon"></i>
         <i class="comments icon"></i>
         <i class="comment outline icon"></i>
@@ -107,8 +108,8 @@ themes      : ['Default']
         <i class="copyright icon"></i>
         <i class="dashboard icon"></i>
         <i class="dropdown icon"></i>
+        <i class="external square icon"></i>
         <i class="external icon"></i>
-        <i class="f square icon"></i>
         <i class="eyedropper icon"></i>
         <i class="feed icon"></i>
         <i class="find icon"></i>
@@ -118,9 +119,9 @@ themes      : ['Default']
         <i class="idea icon"></i>
         <i class="inbox icon"></i>
         <i class="lab icon"></i>
+        <i class="mail icon"></i>
         <i class="mail outline icon"></i>
         <i class="mail square icon"></i>
-        <i class="mail icon"></i>
         <i class="map icon"></i>
         <i class="options icon"></i>
         <i class="paint brush icon"></i>
@@ -132,8 +133,8 @@ themes      : ['Default']
         <i class="search icon"></i>
         <i class="setting icon"></i>
         <i class="settings icon"></i>
-        <i class="sidebar icon"></i>
         <i class="shop icon"></i>
+        <i class="sidebar icon"></i>
         <i class="signal icon"></i>
         <i class="sitemap icon"></i>
         <i class="tag icon"></i>
